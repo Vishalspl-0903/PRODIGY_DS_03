@@ -1,7 +1,7 @@
 # PRODIGY_DS_03
 𝐁𝐚𝐧𝐤 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠 𝐃𝐞𝐜𝐢𝐬𝐢𝐨𝐧 𝐓𝐫𝐞𝐞 𝐂𝐥𝐚𝐬𝐬𝐢𝐟𝐢𝐞𝐫:
 
-This repository contains a project for classifying bank marketing data using a Decision Tree Classifier. The project includes data preprocessing, model training with hyperparameter tuning, evaluation, and visualization of the results.
+This repository contains a task for classifying bank marketing data using a Decision Tree Classifier. The project includes data preprocessing, model training with hyperparameter tuning, evaluation, and visualization of the results.
 
 𝐃𝐚𝐭𝐚𝐬𝐞𝐭:
 
