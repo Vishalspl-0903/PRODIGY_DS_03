@@ -6,8 +6,10 @@ This repository contains a project for classifying bank marketing data using a D
 The dataset used in this project is the Bank Marketing dataset, which is available at the UCI Machine Learning Repository. The dataset is related to direct marketing campaigns (phone calls) of a Portuguese banking institution. The classification goal is to predict whether the client will subscribe to a term deposit (variable y).
 
 𝐅𝐢𝐥𝐞𝐬:
-bank-additional-full.csv: The dataset used for training and testing the model./n
-task_3.py.py: The main script that preprocesses the data, trains the model, and evaluates the results./n
+bank-additional-full.csv: The dataset used for training and testing the model.
+
+task_3.py.py: The main script that preprocesses the data, trains the model, and evaluates the results.
+
 Installation
 To run this project, you need to have Python installed along with the following packages:
 pandas
