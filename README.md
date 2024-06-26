@@ -22,6 +22,5 @@ matplotlib
 
 You can install the required packages using pip:
 
-bash
-Copy code
 pip install pandas scikit-learn matplotlib
+
